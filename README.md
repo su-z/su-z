@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @su-z
 - 👀 I am a mathematician.
-- Which may or may not mean that I am a good programmer...
+- Usually I am more focused on mathematical ideas instead of codes
+- But my favorite programming language is C!
