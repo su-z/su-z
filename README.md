@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @su-z
-- 👀 I am a mathematician and an engineer.
+Hi, I’m @su-z, a PhD student at University of Chicago.
